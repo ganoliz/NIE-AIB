@@ -1,4 +1,4 @@
-= Přednášky
+= Lectures
 :imagesdir: ../lectures/files
 :toc:
 
