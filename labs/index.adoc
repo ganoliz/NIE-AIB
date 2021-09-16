@@ -1,33 +1,33 @@
-= Cvičení
+= Tutorials
 :imagesdir: ../labs/files
 :toc:
 
 [cols="h,2*" options="autowidth,header"]
 |====
 |
-| Téma
-| Materiály
+| Name of Tutorial
+| Source
 
-| Cvičení č. 1
-| Algoritmy generování klíčů a Samoopravné kódy I
+| Tutorial 1
+| Key generation algorithms and error correction codes I
 | 
 
-| Cvičení č. 2
-| Samoopravné kódy II
+| Tutorial 2
+| Error correction codes II
 |
 
 
-| Cvičení č. 3
-| Kryptografické protokoly
+| Tutorial 3
+| Cryptographic protocols
 | 
 
 
-| Cvičení č. 4
+| Tutorial 4
 | Malware
 | 
 
 
-| Cvičení č. 5
-| Steganografie
+| Tutorial 5
+| Steganography
 | 
 |====
