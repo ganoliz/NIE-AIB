@@ -1,20 +1,26 @@
-= Úvodní stránka
+= Homepage
 :imagesdir: media
 
-WARNING: Stránky ještě nejsou kompletně aktualizovány na ZS 2021/2022. Seznamy přednášek a cvičení a podmínky zápočtu a zkoušky se ještě můžou mírně změnit.
+WARNING: The site is not yet completely updated for the winter semester 2021/2022. The lists of lectures and exercises and the conditions of the credit and the exam may still change slightly. 
 
-* Vítejte na stránkách předmětu Algoritmy informační bezpečnosti (NI-AIB).
-* Najdete tady studijní materiály a informace týkající se organizace předmětu.
-* Anotace: studenti se seznámí s algoritmy bezpečného generování klíčů a kryptografickým zpracováním chybových (nejen biometrických) dat. Dále se studenti seznámí s matematickými principy kryptografických protokolů (identifikačních, autentizačních a podpisových schémat). Získají znalosti o metodách detekce malware a použití strojového učení v detekčních algoritmech. Taktéž se seznámí s metodami vytváření steganografických záznamů, s metodami pro jejich vyhledávání a s útoky na ně.
-* Pro specializaci Počítačová bezpečnost je NI-AIB povinný předmět a pro ostatní specializace je volitelný.
+* Welcome to the homepage of the *Algorithms of Information Security* (MIE-MKY.16) course.
+* Here you will find study materials and information concerning the organisation of the course.
+* Synopsis: Students will get acquainted with the algorithms of secure key generation and cryptographic error (not only biometric) data processing. Furthermore, students will learn the mathematical principles of cryptographic protocols (identification, authentication and signature schemes). Another part of the course is dedicated to malware detection and use of machine learning in detection systems. The last topic includes practical steganographic methods and attacks on steganographic systems.  
+* It is a *compulsory course of the specialization Computer Security*.
+* The course is taught as *2+1* (lectures + tutorials).
+* Details can be found in http://bilakniha.cvut.cz/cs/predmet6625706.html[study plans].
 
-NOTE: Sledujte MS Teams tým link:https://teams.microsoft.com/l/team/19%3a1ZXGCtUkiB52ao8pzjIv0aftnxbmVXU8jL0kVrg6xGQ1%40thread.tacv2/conversations?groupId=76be50d6-ead3-4963-9e01-7fb738bba88f&tenantId=f345c406-5268-43b0-b19f-5862fa6833f8[B211-NI-AIB], který může obsahovat další informace související s předmětem.
-
-
+IMPORTANT: Monitor the MS Teams link:https://teams.microsoft.com/l/team/19%3aV3sGAlk_13CL_lDLy7IO_c7HhTt6toWr3LpSCKxLlLE1%40thread.tacv2/conversations?groupId=6178bb62-a5ab-4e56-be76-92f5a118ca56&tenantId=f345c406-5268-43b0-b19f-5862fa6833f8[B211-NIE-AIB].
 
 *Navigate to:*
 
-* xref:classification/index#[Hodnocení]
-* xref:lectures/index#[Přednášky]
-* xref:labs/index#[Cvičení]
-* xref:teachers/index#[Učitelé]
+* xref:classification/index#[Assessment]
+* xref:lectures/index#[Lectures]
+* xref:teacher/index#[Teachers]
+* xref:tutorials/index#[Tutorials]
+
+////
+== Updates
+
+NOTE: The page has been updated for the summer semester of 2018/19.
+////
