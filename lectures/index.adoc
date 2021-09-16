@@ -1,0 +1,127 @@
+= Přednášky
+:imagesdir: ../lectures/files
+:toc:
+
+The following list of lectures may change slightly during the semester. 
+
+[cols="h,2*" options="autowidth,header"]
+|====
+|
+| Name of lecture
+| Source
+
+
+| Lecture 1
+| Key generation algorithms
+| 
+
+
+| Lecture 2
+| Error correction codes I
+| 
+
+| Lecture 3
+| Error correction codes II
+| 
+
+| Lecture 4
+| Error correction codes III
+| 
+
+| Lecture 5
+| Cryptographic protocols I 
+| 
+
+| Lecture 6
+| Cryptographic protocols II
+| 
+
+| Lecture 7
+| Cryptographic protocols III
+| 
+
+| Lecture 8
+| Malware I
+| 
+
+| Lecture 9
+| Malware II
+| 
+
+| Lecture 10
+| Malware III
+| 
+
+| Lecture 11
+| Steganography I
+| 
+
+| Lecture 12
+| Steganography II
+| 
+|====
+
+NOTE: Last year's lectures on cryptocurrencies were moved to the new subject Blockchain (NIE-BLO) 
+
+////
+[cols="h,2*" options="autowidth,header"]
+|====
+|
+| Téma
+| Materiály
+
+
+| Přednáška č. 1
+| Algoritmy generování klíčů
+| link:{imagesdir}/ni_aib_pr1.pdf[PDF]
+
+
+| Přednáška č. 2
+| Kryptografické metody zpracování chybových dat (biometrická data)
+| link:{imagesdir}/ni_aib_pr2.pdf[PDF]
+
+| Přednáška č. 3
+| Kryptografické metody zpracování chybových dat (biometrická data) II
+| link:{imagesdir}/ni_aib_pr3.pdf[PDF]
+
+| Přednáška č. 4
+| Kryptografické protokoly: identifikační schémata
+| link:{imagesdir}/ni_aib_pr4.pdf[PDF]
+
+| Přednáška č. 5
+| Kryptografické protokoly: identifikační schémata - dokončení, management klíčů
+| link:{imagesdir}/ni_aib_pr5.pdf[PDF]
+
+| Přednáška č. 6
+| Kryptografické protokoly: management klíčů - dokončení, sdílení tajemství
+| link:{imagesdir}/ni_aib_pr6.pdf[PDF]
+
+| Přednáška č. 7
+| Kryptoměny: algoritmy založené na Proof of Work (Bitcoin)
+| link:{imagesdir}/btc_handout.pdf[PDF], link:{imagesdir}/blackboard1.pdf[PDF]
+
+| Přednáška č. 8
+| Kryptoměny: algoritmy založené na Proof of Work (Bitcoin) II
+| link:{imagesdir}/blackboard2.pdf[PDF]
+
+| Přednáška č. 9
+| Malware: základní typy malware a principy analýzy
+| link:{imagesdir}/ni_aib_pr9.pdf[PDF]
+
+| Přednáška č. 10
+| Malware: detekční postupy založené na strojovém učení
+| link:{imagesdir}/ni_aib_pr10.pdf[PDF]
+
+| Přednáška č. 11
+| Steganografie: metody vkládání záznamů
+| link:{imagesdir}/ni_aib_pr11.pdf[PDF]
+
+| Přednáška č. 12
+| Steganografie: útoky na steganografické systémy
+| link:{imagesdir}/ni_aib_pr12.pdf[PDF]
+|====
+
+////
+
+
+

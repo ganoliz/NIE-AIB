@@ -1,0 +1,20 @@
+= Úvodní stránka
+:imagesdir: media
+
+WARNING: Stránky ještě nejsou kompletně aktualizovány na ZS 2021/2022. Seznamy přednášek a cvičení a podmínky zápočtu a zkoušky se ještě můžou mírně změnit.
+
+* Vítejte na stránkách předmětu Algoritmy informační bezpečnosti (NI-AIB).
+* Najdete tady studijní materiály a informace týkající se organizace předmětu.
+* Anotace: studenti se seznámí s algoritmy bezpečného generování klíčů a kryptografickým zpracováním chybových (nejen biometrických) dat. Dále se studenti seznámí s matematickými principy kryptografických protokolů (identifikačních, autentizačních a podpisových schémat). Získají znalosti o metodách detekce malware a použití strojového učení v detekčních algoritmech. Taktéž se seznámí s metodami vytváření steganografických záznamů, s metodami pro jejich vyhledávání a s útoky na ně.
+* Pro specializaci Počítačová bezpečnost je NI-AIB povinný předmět a pro ostatní specializace je volitelný.
+
+NOTE: Sledujte MS Teams tým link:https://teams.microsoft.com/l/team/19%3a1ZXGCtUkiB52ao8pzjIv0aftnxbmVXU8jL0kVrg6xGQ1%40thread.tacv2/conversations?groupId=76be50d6-ead3-4963-9e01-7fb738bba88f&tenantId=f345c406-5268-43b0-b19f-5862fa6833f8[B211-NI-AIB], který může obsahovat další informace související s předmětem.
+
+
+
+*Navigate to:*
+
+* xref:classification/index#[Hodnocení]
+* xref:lectures/index#[Přednášky]
+* xref:labs/index#[Cvičení]
+* xref:teachers/index#[Učitelé]

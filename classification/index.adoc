@@ -1,0 +1,40 @@
+= Hodnocení
+:toc:
+
+
+
+== Credit
+
+TBD
+////
+Během semestru bude zadán zápočtový test, za který může student získat až 40 bodů. Podmínkou pro udělení zápočtu je získaní minimálně 20 bodů ze zápočtového testu. Během semestru může student na cvičeních řešit bonusové úlohy, za které může dostat body. Počet studentů u každé bonusové úlohy bude omezen. Celkem lze ze zápočtového testu a bonusových úloh vyřešených na cvičeních získat maximálně 40 bodů.
+
+Pokud bude zakázáno vzhledem k aktuální situaci konat zápočtový test (fyzicky) v prostorách ČVUT FIT, tak zápočtový test proběhne online. 
+////
+== Zkouška
+
+TBD
+
+////
+Zkoušky se může zúčastnit pouze student, který už má získaný zápočet. Zkouška probíhá ústně. Student odpovídá na několik otázek, které mu budou kladeny postupně, přičemž na písemnou přípravu odpovědí má spolu maximálně 30 minut. Body získané ze semestru se připočítávají k bodům ze zkoušky, kterých lze získat nejvýše 60.
+
+Pokud bude zakázáno vzhledem k aktuální situaci konat zkoušku (fyzicky) v prostorách ČVUT FIT, zkouška proběhne online (přes videohovor v MS Teams). V opačném případe, když tak zkoušející rozhodne, zkouška proběhne (fyzicky) v předem stanovené učebně.
+
+V případě online zkoušky: v průběhu zkoušky umožní student prostřednictvím web kamery a mikrofonu neustálý vizuální a zvukový kontakt se zkoušejícím.
+
+Hodnocení se řídí standardní hodnotící stupnicí ČVUT:
+
+[options="autowidth"]
+|====
+| Známka | Bodové rozmezí | Slovní hodnocení
+
+| A      | 90 a více      | výborně
+| B      | 80-89          | velmi dobře
+| C      | 70-79          | dobře
+| D      | 60-69          | uspokojivě
+| E      | 50-59          | dostatečně
+| F      | méně než 50    | nedostatečně
+|====
+
+Hodnocení se řídí https://www.cvut.cz/vnitrni-predpisy#szr[Studijním a zkušebním řádem ČVUT].
+////

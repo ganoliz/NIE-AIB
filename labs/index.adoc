@@ -1,0 +1,33 @@
+= Cvičení
+:imagesdir: ../labs/files
+:toc:
+
+[cols="h,2*" options="autowidth,header"]
+|====
+|
+| Téma
+| Materiály
+
+| Cvičení č. 1
+| Algoritmy generování klíčů a Samoopravné kódy I
+| 
+
+| Cvičení č. 2
+| Samoopravné kódy II
+|
+
+
+| Cvičení č. 3
+| Kryptografické protokoly
+| 
+
+
+| Cvičení č. 4
+| Malware
+| 
+
+
+| Cvičení č. 5
+| Steganografie
+| 
+|====

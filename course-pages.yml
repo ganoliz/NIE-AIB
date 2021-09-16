@@ -1,0 +1,14 @@
+course:
+  code: NIE-AIB
+  name: Algorithms of Information Security
+semester: B211
+language: en
+repository:
+  gitlabPath: /NI-AIB/nie-aib
+navigation:
+  hiddenFiles:
+    - files/
+    - media/
+    - README.*
+excludedFiles:
+  - /public

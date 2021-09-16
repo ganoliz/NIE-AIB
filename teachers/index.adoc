@@ -1,0 +1,17 @@
+= Teachers 
+:imagesdir: ../media/teacher
+
+
+=== Martin Jureček
+
+* Email: martin.jurecek@fit.cvut.cz,
+* Office: Thákurova 7, 11th floor, No. 1137,
+* Consultation: contact me via e-mail or MS Teams.
+
+=== Olha Jurečková
+
+* Email: jurecolh@fit.cvut.cz,
+* Office: Thákurova 7, 11th floor, No. 1137,
+* Consultation: contact me via e-mail or MS Teams.
+
+
