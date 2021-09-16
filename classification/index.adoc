@@ -1,4 +1,4 @@
-= Hodnocení
+= Classification
 :toc:
 
 
@@ -11,7 +11,7 @@ Během semestru bude zadán zápočtový test, za který může student získat 
 
 Pokud bude zakázáno vzhledem k aktuální situaci konat zápočtový test (fyzicky) v prostorách ČVUT FIT, tak zápočtový test proběhne online. 
 ////
-== Zkouška
+== Exam
 
 TBD
 
