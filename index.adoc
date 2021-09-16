@@ -3,7 +3,7 @@
 
 WARNING: The site is not yet completely updated for the winter semester 2021/2022. The lists of lectures and exercises and the conditions of the credit and the exam may still change slightly. 
 
-* Welcome to the homepage of the *Algorithms of Information Security* (MIE-MKY.16) course.
+* Welcome to the homepage of the *Algorithms of Information Security* (NIE-AIB) course.
 * Here you will find study materials and information concerning the organisation of the course.
 * Synopsis: Students will get acquainted with the algorithms of secure key generation and cryptographic error (not only biometric) data processing. Furthermore, students will learn the mathematical principles of cryptographic protocols (identification, authentication and signature schemes). Another part of the course is dedicated to malware detection and use of machine learning in detection systems. The last topic includes practical steganographic methods and attacks on steganographic systems.  
 * It is a *compulsory course of the specialization Computer Security*.
