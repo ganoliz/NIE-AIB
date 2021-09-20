@@ -1,40 +1,36 @@
 = Classification
 :toc:
 
-
+NOTE: To check your *results* visit https://grades.fit.cvut.cz[Classification].
 
 == Credit
 
-TBD
-////
-Během semestru bude zadán zápočtový test, za který může student získat až 40 bodů. Podmínkou pro udělení zápočtu je získaní minimálně 20 bodů ze zápočtového testu. Během semestru může student na cvičeních řešit bonusové úlohy, za které může dostat body. Počet studentů u každé bonusové úlohy bude omezen. Celkem lze ze zápočtového testu a bonusových úloh vyřešených na cvičeních získat maximálně 40 bodů.
+* During the semester, there will be two credit tests for each of which the student can get *up to 20 points*.
+* *At least 10 points from each credit test* are necessary to be awarded credit.
+* During the semester, the student can solve bonus tasks in tutorials to get extra points.
+* In total, a maximum of 40 points can be obtained from the credit test and bonus tasks solved in the tutorials.
+* If it is forbidden to take a credit test (physically) at the CTU FIT due to the current situation, then the credit test will take place online (via a video call in MS Teams).
 
-Pokud bude zakázáno vzhledem k aktuální situaci konat zápočtový test (fyzicky) v prostorách ČVUT FIT, tak zápočtový test proběhne online. 
-////
 == Exam
 
-TBD
-
-////
-Zkoušky se může zúčastnit pouze student, který už má získaný zápočet. Zkouška probíhá ústně. Student odpovídá na několik otázek, které mu budou kladeny postupně, přičemž na písemnou přípravu odpovědí má spolu maximálně 30 minut. Body získané ze semestru se připočítávají k bodům ze zkoušky, kterých lze získat nejvýše 60.
-
-Pokud bude zakázáno vzhledem k aktuální situaci konat zkoušku (fyzicky) v prostorách ČVUT FIT, zkouška proběhne online (přes videohovor v MS Teams). V opačném případe, když tak zkoušející rozhodne, zkouška proběhne (fyzicky) v předem stanovené učebně.
-
-V případě online zkoušky: v průběhu zkoušky umožní student prostřednictvím web kamery a mikrofonu neustálý vizuální a zvukový kontakt se zkoušejícím.
-
-Hodnocení se řídí standardní hodnotící stupnicí ČVUT:
+* The exam is *oral* (in case of distance form of exam, we will arrange an online meeting using MS Teams application) and covers all topics in the lecture notes.
+* Each student will be asked *several questions* and has *60 minutes to prepare* the answers.
+* Each student can get at most 60 points.
+* The grades will be determined by the total sum of points acquired during the semester(maximum is 40) and the exam (maximum is 60).
+* However, *if serious ignorance is recognized, the student will fail the exam*.
+* If it is forbidden to take the exam (physically) at the CTU FIT due to the current situation, then the exam will take place online (via a video call in MS Teams).
+* Each student could be asked to share his screen and write your answer in some text editor (in case of the low quality of the video or some misunderstanding).
+* Otherwise, if the teacher so decides, the examination will take place (physically) in a predetermined classroom.
+* Students should formulate their answers *rigorously*; vague formulations are not considered satisfactory.
+* The evaluation is governed by the standard evaluation scale of CTU: 
 
 [options="autowidth"]
 |====
-| Známka | Bodové rozmezí | Slovní hodnocení
-
-| A      | 90 a více      | výborně
-| B      | 80-89          | velmi dobře
-| C      | 70-79          | dobře
-| D      | 60-69          | uspokojivě
-| E      | 50-59          | dostatečně
-| F      | méně než 50    | nedostatečně
+<h| Grade      <h| Points         <h| Evaluation in words
+  | **A**        | 90 and more      | excellent
+  | **B**        | 80-89            | very good
+  | **C**        | 70-79            | good
+  | **D**        | 60-69            | satisfactory
+  | **E**        | 50-59            | sufficient
+  | **F**        | less than 50     | failed
 |====
-
-Hodnocení se řídí https://www.cvut.cz/vnitrni-predpisy#szr[Studijním a zkušebním řádem ČVUT].
-////
