@@ -18,7 +18,7 @@ The following list of lectures may change slightly during the semester.
 
 | Lecture 2
 | Error correction codes I
-| 
+| link:{imagesdir}/nie_aib_pr2.pdf[PDF]
 
 | Lecture 3
 | Error correction codes II
