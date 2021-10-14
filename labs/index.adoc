@@ -10,11 +10,11 @@
 
 | Tutorial 1
 | Key generation algorithms and error correction codes I
-| 
+| link:{imagesdir}/Exercises_1.pdf[PDF]
 
 | Tutorial 2
 | Error correction codes II
-|
+| link:{imagesdir}/Exercises_2.pdf[PDF]
 
 
 | Tutorial 3
