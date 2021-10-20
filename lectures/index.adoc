@@ -12,32 +12,32 @@ The following list of lectures may change slightly during the semester.
 
 
 | Lecture 1
-| Key generation algorithms
+| Key Generation Algorithms
 | link:{imagesdir}/nie_aib_pr1.pdf[PDF]
 
 
 | Lecture 2
-| Error correction codes I
+| Error Correction Codes I
 | link:{imagesdir}/nie_aib_pr2.pdf[PDF]
 
 | Lecture 3
-| Error correction codes II
+| Error Correction Codes II
 | link:{imagesdir}/nie_aib_pr3.pdf[PDF]
 
 | Lecture 4
-| Error correction codes III
+| Error Correction Codes III
 | link:{imagesdir}/nie_aib_pr4.pdf[PDF]
 
 | Lecture 5
-| Cryptographic protocols I 
-| 
+| Cryptographic Protocols I 
+| link:{imagesdir}/nie_aib_pr5.pdf[PDF]
 
 | Lecture 6
-| Cryptographic protocols II
+| Cryptographic Protocols II
 | 
 
 | Lecture 7
-| Cryptographic protocols III
+| Cryptographic Protocols III
 | 
 
 | Lecture 8

@@ -9,16 +9,16 @@
 | Source
 
 | Tutorial 1
-| Key generation algorithms and error correction codes I
+| Key Generation Algorithms and Error Correction Codes I
 | link:{imagesdir}/Exercises_1.pdf[PDF]
 
 | Tutorial 2
-| Error correction codes II
+| Error Correction Codes II
 | link:{imagesdir}/Exercises_2.pdf[PDF]
 
 
 | Tutorial 3
-| Cryptographic protocols
+| Cryptographic Protocols
 | 
 
 
