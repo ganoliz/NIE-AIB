@@ -34,7 +34,7 @@ The following list of lectures may change slightly during the semester.
 
 | Lecture 6
 | Cryptographic Protocols II
-| 
+| link:{imagesdir}/nie_aib_pr6.pdf[PDF]
 
 | Lecture 7
 | Cryptographic Protocols III
