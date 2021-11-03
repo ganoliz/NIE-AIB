@@ -38,7 +38,7 @@ The following list of lectures may change slightly during the semester.
 
 | Lecture 7
 | Cryptographic Protocols III
-| 
+| link:{imagesdir}/nie_aib_pr7.pdf[PDF]
 
 | Lecture 8
 | Malware I
