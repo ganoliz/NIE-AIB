@@ -42,7 +42,7 @@ The following list of lectures may change slightly during the semester.
 
 | Lecture 8
 | Malware I
-| 
+| link:{imagesdir}/nie_aib_pr8.pdf[PDF]
 
 | Lecture 9
 | Malware II
