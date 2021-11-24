@@ -46,7 +46,7 @@ The following list of lectures may change slightly during the semester.
 
 | Lecture 9
 | Malware II
-| 
+| link:{imagesdir}/nie_aib_pr9.pdf[PDF]
 
 | Lecture 10
 | Malware III
