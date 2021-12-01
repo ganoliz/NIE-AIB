@@ -50,7 +50,7 @@ The following list of lectures may change slightly during the semester.
 
 | Lecture 10
 | Malware III
-| 
+| link:{imagesdir}/nie_aib_pr10.pdf[PDF]
 
 | Lecture 11
 | Steganography I
