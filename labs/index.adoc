@@ -18,13 +18,13 @@
 
 
 | Tutorial 3
-| Cryptographic Protocols
+| Cryptographic Protocols I
 | link:{imagesdir}/Exercises_3.pdf[PDF]
 
 
 | Tutorial 4
-| Malware
-| 
+| Cryptographic Protocols II and Malware
+| link:{imagesdir}/Exercises_4.pdf[PDF]
 
 
 | Tutorial 5
