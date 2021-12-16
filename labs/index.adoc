@@ -29,5 +29,5 @@
 
 | Tutorial 5
 | Steganography
-| 
+| link:{imagesdir}/Exercises_5.pdf[PDF]
 |====
