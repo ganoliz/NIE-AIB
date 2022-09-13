@@ -13,52 +13,52 @@ The following list of lectures may change slightly during the semester.
 
 | Lecture 1
 | Key Generation Algorithms
-| link:{imagesdir}/nie_aib_pr1.pdf[PDF]
+| //link:{imagesdir}/nie_aib_pr1.pdf[PDF]
 
 
 | Lecture 2
 | Error Correction Codes I
-| link:{imagesdir}/nie_aib_pr2.pdf[PDF]
+| //link:{imagesdir}/nie_aib_pr2.pdf[PDF]
 
 | Lecture 3
 | Error Correction Codes II
-| link:{imagesdir}/nie_aib_pr3.pdf[PDF]
+| //link:{imagesdir}/nie_aib_pr3.pdf[PDF]
 
 | Lecture 4
 | Error Correction Codes III
-| link:{imagesdir}/nie_aib_pr4.pdf[PDF]
+| //link:{imagesdir}/nie_aib_pr4.pdf[PDF]
 
 | Lecture 5
 | Cryptographic Protocols I 
-| link:{imagesdir}/nie_aib_pr5.pdf[PDF]
+| //link:{imagesdir}/nie_aib_pr5.pdf[PDF]
 
 | Lecture 6
 | Cryptographic Protocols II
-| link:{imagesdir}/nie_aib_pr6.pdf[PDF]
+| //link:{imagesdir}/nie_aib_pr6.pdf[PDF]
 
 | Lecture 7
 | Cryptographic Protocols III
-| link:{imagesdir}/nie_aib_pr7.pdf[PDF]
+| //link:{imagesdir}/nie_aib_pr7.pdf[PDF]
 
 | Lecture 8
 | Malware I
-| link:{imagesdir}/nie_aib_pr8.pdf[PDF]
+| //link:{imagesdir}/nie_aib_pr8.pdf[PDF]
 
 | Lecture 9
 | Malware II
-| link:{imagesdir}/nie_aib_pr9.pdf[PDF]
+| //link:{imagesdir}/nie_aib_pr9.pdf[PDF]
 
 | Lecture 10
 | Malware III
-| link:{imagesdir}/nie_aib_pr10.pdf[PDF]
+| //link:{imagesdir}/nie_aib_pr10.pdf[PDF]
 
 | Lecture 11
 | Steganography I
-| link:{imagesdir}/nie_aib_pr11.pdf[PDF]
+| //link:{imagesdir}/nie_aib_pr11.pdf[PDF]
 
 | Lecture 12
 | Steganography II
-| link:{imagesdir}/nie_aib_pr12.pdf[PDF]
+| //link:{imagesdir}/nie_aib_pr12.pdf[PDF]
 |====
 
 NOTE: Last year's lectures on cryptocurrencies were moved to the new subject Blockchain (NIE-BLO) 
