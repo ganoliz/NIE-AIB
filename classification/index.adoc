@@ -7,16 +7,17 @@ NOTE: To check your *results* visit https://grades.fit.cvut.cz[Classification].
 
 * During the semester, there will be two credit tests for each of which the student can get *up to 20 points*.
 * *At least 10 points from each credit test* are necessary to be awarded credit.
+* In the first 5 tutorials, homework assignments will be given, the solution of which the student will submit no later than the next tutorial. The student who submits his solution may be asked to explain it. If the student is unable to explain the solution, he will not receive any points for it, even if his solution is correct. For the correct solutions of the homework assigned in an exercise, the student can get a maximum of 2 points, so a total of 10 points for 5 sets of homework. The condition for obtaining the credit is to have at least 5 points from homework.
 * During the semester, the student can solve bonus tasks in tutorials to get extra points.
-* In total, a maximum of 40 points can be obtained from the credit test and bonus tasks solved in the tutorials.
+* In total, a maximum of 50 points can be obtained from two credit tests, homework, and bonus tasks solved in the tutorials.
 * If it is forbidden to take a credit test (physically) at the CTU FIT due to the current situation, then the credit test will take place online (via a video call in MS Teams).
 
 == Exam
 
 * The exam is *oral* (in case of distance form of exam, we will arrange an online meeting using MS Teams application) and covers all topics in the lecture notes.
 * Each student will be asked *several questions* and has *60 minutes to prepare* the answers.
-* Each student can get at most 60 points.
-* The grades will be determined by the total sum of points acquired during the semester(maximum is 40) and the exam (maximum is 60).
+* Each student can get at most 50 points. However, *if a student gets less than 25 points from the exam, then he gets the grade F.*
+* The grades will be determined by the total sum of points acquired during the semester (maximum is 50) and the exam (maximum is 50).
 * However, *if serious ignorance is recognized, the student will fail the exam*.
 * If it is forbidden to take the exam (physically) at the CTU FIT due to the current situation, then the exam will take place online (via a video call in MS Teams).
 * Each student could be asked to share his screen and write your answer in some text editor (in case of the low quality of the video or some misunderstanding).
