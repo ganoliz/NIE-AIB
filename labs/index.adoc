@@ -2,6 +2,8 @@
 :imagesdir: ../labs/files
 :toc:
 
+NOTE: The following list of tutorials may change slightly during the semester. 
+
 [cols="h,2*" options="autowidth,header"]
 |====
 |
@@ -10,24 +12,24 @@
 
 | Tutorial 1
 | Key Generation Algorithms and Error Correction Codes I
-| link:{imagesdir}/Exercises_1.pdf[PDF]
+| 
 
 | Tutorial 2
 | Error Correction Codes II
-| link:{imagesdir}/Exercises_2.pdf[PDF]
+| 
 
 
 | Tutorial 3
 | Cryptographic Protocols I
-| link:{imagesdir}/Exercises_3.pdf[PDF]
+| 
 
 
 | Tutorial 4
 | Cryptographic Protocols II and Malware
-| link:{imagesdir}/Exercises_4.pdf[PDF]
+| 
 
 
 | Tutorial 5
 | Steganography
-| link:{imagesdir}/Exercises_5.pdf[PDF]
+| 
 |====

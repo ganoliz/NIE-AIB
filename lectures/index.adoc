@@ -2,7 +2,7 @@
 :imagesdir: ../lectures/files
 :toc:
 
-The following list of lectures may change slightly during the semester. 
+NOTE: The following list of lectures may change slightly during the semester. 
 
 [cols="h,2*" options="autowidth,header"]
 |====
@@ -60,7 +60,7 @@ The following list of lectures may change slightly during the semester.
 | 
 |====
 
-NOTE: Last year's lectures on cryptocurrencies were moved to the new subject Blockchain (NIE-BLO) 
+NOTE: The lectures on cryptocurrencies were moved to the subject Blockchain (NIE-BLO). 
 
 ////
 [cols="h,2*" options="autowidth,header"]
