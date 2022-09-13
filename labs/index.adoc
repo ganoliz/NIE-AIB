@@ -11,25 +11,29 @@ NOTE: The following list of tutorials may change slightly during the semester.
 | Source
 
 | Tutorial 1
-| Key Generation Algorithms and Error Correction Codes I
+| Key Generation Algorithms
 | 
 
 | Tutorial 2
-| Error Correction Codes II
+| Error Correction Codes I
 | 
 
 
 | Tutorial 3
-| Cryptographic Protocols I
+| Error Correction Codes II and Cryptographic Protocols I
 | 
 
 
 | Tutorial 4
-| Cryptographic Protocols II and Malware
+| Cryptographic Protocols II
+| 
+
+| Tutorial 5
+| Malware I
 | 
 
 
-| Tutorial 5
-| Steganography
+| Tutorial 6
+| Malware II and Steganography
 | 
 |====
