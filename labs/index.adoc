@@ -20,7 +20,7 @@ NOTE: The following list of tutorials may change slightly during the semester.
 
 
 | Tutorial 3
-| Error Correction Codes II and Cryptographic Protocols I
+| Test I + Error Correction Codes II and Cryptographic Protocols I
 | 
 
 
@@ -34,6 +34,6 @@ NOTE: The following list of tutorials may change slightly during the semester.
 
 
 | Tutorial 6
-| Malware II and Steganography
+| Test II + Malware II and Steganography
 | 
 |====
