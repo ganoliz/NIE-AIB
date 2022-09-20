@@ -13,7 +13,7 @@ NOTE: The following list of lectures may change slightly during the semester.
 
 | Lecture 1
 | Key Generation Algorithms
-| 
+| link:{imagesdir}/nie_aib_pr1.pdf[PDF]
 
 | Lecture 2
 | Error Correction Codes I
