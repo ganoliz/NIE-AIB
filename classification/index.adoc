@@ -18,7 +18,6 @@ NOTE: To check your *results* visit https://grades.fit.cvut.cz[Classification].
 * Each student will be asked *several questions* and has *60 minutes to prepare* the answers.
 * Each student can get at most 50 points. However, *if a student gets less than 25 points from the exam or serious ignorance is recognized, the student will fail the exam.*
 * The grades will be determined by the total sum of points acquired during the semester (maximum is 50) and the exam (maximum is 50).
-* However, *if serious ignorance is recognized, the student will fail the exam*.
 * If it is forbidden to take the exam (physically) at the CTU FIT due to the current situation, then the exam will take place online (via a video call in MS Teams).
 * Each student could be asked to share his screen and write your answer in some text editor (in case of the low quality of the video or some misunderstanding).
 * Otherwise, if the teacher so decides, the examination will take place (physically) in a predetermined classroom.
