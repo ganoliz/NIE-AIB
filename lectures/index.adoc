@@ -21,7 +21,7 @@ NOTE: The following list of lectures may change slightly during the semester.
 
 | Lecture 3
 | Error Correction Codes II
-| 
+| link:{imagesdir}/nie_aib_lect3.pdf[PDF]
 
 | Lecture 4
 | Error Correction Codes III
