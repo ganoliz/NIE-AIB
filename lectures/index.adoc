@@ -25,7 +25,7 @@ NOTE: The following list of lectures may change slightly during the semester.
 
 | Lecture 4
 | Error Correction Codes III
-| 
+| link:{imagesdir}/nie_aib_lect4.pdf[PDF]
 
 | Lecture 5
 | Cryptographic Protocols I 
