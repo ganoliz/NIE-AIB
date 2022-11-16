@@ -32,12 +32,12 @@ NOTE: The following list of tutorials may change slightly during the semester.
 | link:{imagesdir}/nie_aib_hw4.pdf[PDF]
 
 | Tutorial 5
-| Malware I
+| Malware Detection I
 | 
 |
 
 | Tutorial 6
-| Test II + Malware II and Steganography
+| Test II + Malware Detection II and Steganography
 | 
 |
 |====

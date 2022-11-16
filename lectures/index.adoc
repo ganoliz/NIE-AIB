@@ -40,15 +40,15 @@ NOTE: The following list of lectures may change slightly during the semester.
 | link:{imagesdir}/nie_aib_lect7.pdf[PDF] 
 
 | Lecture 8
-| Malware I
+| Malware Detection I
 | 
 
 | Lecture 9
-| Malware II
+| Malware Detection II
 | 
 
 | Lecture 10
-| Malware III
+| Malware Detection III
 | 
 
 | Lecture 11
