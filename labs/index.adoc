@@ -33,7 +33,7 @@ NOTE: The following list of tutorials may change slightly during the semester.
 
 | Tutorial 5
 | Cryptographic Protocols III and Malware Detection I
-| link:{imagesdir}/nie_aib_tut5.pdf[PDF], link:{imagesdir}/nie_aib_tut5.zip[PDF]
+| link:{imagesdir}/nie_aib_tut5.pdf[PDF], link:{imagesdir}/nie_aib_tut5.zip[IPYNB]
 |
 
 | Tutorial 6
