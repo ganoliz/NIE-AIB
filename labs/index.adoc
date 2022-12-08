@@ -38,6 +38,6 @@ NOTE: The following list of tutorials may change slightly during the semester.
 
 | Tutorial 6
 | Test II + Malware Detection II and Steganography
-| 
-|
+| link:{imagesdir}/nie_aib_tut6.pdf[PDF], link:{imagesdir}/nie_aib_tut6.nb[NB]
+| N/A
 |====
