@@ -57,7 +57,7 @@ NOTE: The following list of lectures may change slightly during the semester.
 
 | Lecture 12
 | Steganography II
-| 
+| link:{imagesdir}/nie_aib_lect12.pdf[PDF] 
 |====
 
 NOTE: The lectures on cryptocurrencies were moved to the subject Blockchain (NIE-BLO). 
