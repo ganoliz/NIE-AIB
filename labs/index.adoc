@@ -13,31 +13,31 @@ NOTE: The following list of tutorials may change slightly during the semester.
 
 | Tutorial 1
 | Key Generation Algorithms
-| link:{imagesdir}/nie_aib_tut1.pdf[PDF]
-| link:{imagesdir}/nie_aib_hw1.pdf[PDF]
+| 
+| 
 
 | Tutorial 2
 | Error Correction Codes I
-| link:{imagesdir}/nie_aib_tut2.pdf[PDF]
-| link:{imagesdir}/nie_aib_hw2.pdf[PDF]
+| 
+| 
 
 | Tutorial 3
 | Test I + Error Correction Codes II and Cryptographic Protocols I
-| link:{imagesdir}/nie_aib_tut3.pdf[PDF]
-| link:{imagesdir}/nie_aib_hw3.pdf[PDF]
+| 
+| 
 
 | Tutorial 4
 | Cryptographic Protocols II
-| link:{imagesdir}/nie_aib_tut4.pdf[PDF]
-| link:{imagesdir}/nie_aib_hw4.pdf[PDF]
+| 
+| 
 
 | Tutorial 5
 | Cryptographic Protocols III and Malware Detection I
-| link:{imagesdir}/nie_aib_tut5.pdf[PDF], link:{imagesdir}/nie_aib_tut5.zip[IPYNB]
-| link:{imagesdir}/nie_aib_hw5.pdf[PDF]
+| 
+| 
 
 | Tutorial 6
 | Test II + Malware Detection II and Steganography
-| link:{imagesdir}/nie_aib_tut6.pdf[PDF], link:{imagesdir}/nie_aib_tut6.nb[NB]
-| N/A
+| 
+| 
 |====

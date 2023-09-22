@@ -17,47 +17,47 @@ NOTE: The following list of lectures may change slightly during the semester.
 
 | Lecture 2
 | Error Correction Codes I
-| link:{imagesdir}/nie_aib_lect2.pdf[PDF]
+| 
 
 | Lecture 3
 | Error Correction Codes II
-| link:{imagesdir}/nie_aib_lect3.pdf[PDF]
+| 
 
 | Lecture 4
 | Error Correction Codes III
-| link:{imagesdir}/nie_aib_lect4.pdf[PDF]
+| 
 
 | Lecture 5
 | Cryptographic Protocols I 
-| link:{imagesdir}/nie_aib_lect5.pdf[PDF]
+| 
 
 | Lecture 6
 | Cryptographic Protocols II
-| link:{imagesdir}/nie_aib_lect6.pdf[PDF]
+| 
 
 | Lecture 7
 | Cryptographic Protocols III
-| link:{imagesdir}/nie_aib_lect7.pdf[PDF] 
+| 
 
 | Lecture 8
 | Malware Detection I
-| link:{imagesdir}/nie_aib_lect8.pdf[PDF] 
+| 
 
 | Lecture 9
 | Malware Detection II
-| link:{imagesdir}/nie_aib_lect9.pdf[PDF] 
+| 
 
 | Lecture 10
 | Malware Detection III
-| link:{imagesdir}/nie_aib_lect10.pdf[PDF]
+| 
 
 | Lecture 11
 | Steganography I
-| link:{imagesdir}/nie_aib_lect11.pdf[PDF] 
+| 
 
 | Lecture 12
 | Steganography II
-| link:{imagesdir}/nie_aib_lect12.pdf[PDF] 
+| 
 |====
 
 NOTE: The lectures on cryptocurrencies were moved to the subject Blockchain (NIE-BLO). 

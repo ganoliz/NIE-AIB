@@ -8,7 +8,12 @@
 * The course is taught as *2+1* (12 lectures + 6 tutorials).
 //* Details can be found in http://bilakniha.cvut.cz/cs/predmet6625706.html[study plans].
 
+////
 NOTE: Monitor the MS Teams link:https://teams.microsoft.com/l/team/19%3aIzaCiUvOqNnBEhNfLqKUdlOa0DQwSlY24PcMXgOm-tM1%40thread.tacv2/conversations?groupId=d1aa4b7c-f30d-4f2c-b799-0fdce59d961e&tenantId=f345c406-5268-43b0-b19f-5862fa6833f8[B211-NIE-AIB].
+////
+
+NOTE: Monitor the MS Teams [the link will be supplemented at the beginning of the winter semester].
+
 
 *Navigate to:*
 
