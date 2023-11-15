@@ -28,8 +28,8 @@ NOTE: The following list of tutorials may change slightly during the semester.
 
 | Tutorial 4
 | Cryptographic Protocols II
-| 
-| 
+| link:{imagesdir}/nie_aib_tut4.pdf[PDF]
+| link:{imagesdir}/nie_aib_hw4.pdf[PDF]
 
 | Tutorial 5
 | Cryptographic Protocols III and Malware Detection I
