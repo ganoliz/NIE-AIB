@@ -53,7 +53,7 @@ NOTE: The following list of lectures may change slightly during the semester.
 
 | Lecture 11
 | Steganography I
-| 
+| link:{imagesdir}/nie_aib_lect11.pdf[PDF]
 
 | Lecture 12
 | Steganography II
