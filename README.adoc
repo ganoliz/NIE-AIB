@@ -1,1 +1,27 @@
-include::index.adoc[]
+= Homepage
+:imagesdir: media
+
+* Welcome to the homepage of the *Algorithms of Information Security* (NIE-AIB) course.
+* Here you will find study materials and information concerning the organisation of the course.
+* Synopsis: Students will get acquainted with the algorithms of secure key generation and cryptographic error (not only biometric) data processing. Furthermore, students will learn the mathematical principles of cryptographic protocols (identification, authentication and signature schemes). Another part of the course is dedicated to malware detection and use of machine learning in detection systems. The last topic includes practical steganographic methods and attacks on steganographic systems.  
+* It is a *compulsory course of the specialization Computer Security*.
+* The course is taught as *2+1* (12 lectures + 6 tutorials).
+//* Details can be found in http://bilakniha.cvut.cz/cs/predmet6625706.html[study plans].
+
+
+NOTE: Monitor the MS Teams link:https://teams.microsoft.com/l/team/19%3aq9IkQXq-z21jtGd-nhJhWVio_6SJlb3brA4O0LhXByw1%40thread.tacv2/conversations?groupId=de6ca2e2-7940-46b6-9953-93f1922bf10f&tenantId=f345c406-5268-43b0-b19f-5862fa6833f8[B231-NIE-AIB].
+
+
+*Navigate to:*
+
+* xref:classification/index#[Assessment]
+* xref:lectures/index#[Lectures]
+* xref:teachers/index#[Teachers]
+* xref:labs/index#[Tutorials]
+
+////
+== Updates
+
+NOTE: The page has been updated for the summer semester of 2018/19.
+////
+
